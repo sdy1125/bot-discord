@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+gtts
+beautifulsoup4
+pytube
+requests
+watchdog
